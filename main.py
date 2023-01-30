@@ -6,9 +6,9 @@ st.set_page_config(
 	layout='wide'
 )
 
-st.text('🎈Streamlit 프로토타입 만들기')
+st.text('🎈김세원 : Streamlit 프로토타입 만들기')
 
-st.title('📌Title을 입력하세요.')
+st.title('📌진짜 확인하시는지 궁금합니다.')
 
 st.header('Header(머리글)을 입력하세요.')
 st.subheader('Subheader(세부 머리글)을 입력하세요.')
